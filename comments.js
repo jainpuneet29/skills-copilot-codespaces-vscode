@@ -9,7 +9,5 @@ var server = http.createServer(function(req, res) {
 
   // write response content
   res.end('Hello World\n');
-});
 
-// listen on port 3000
-server.listen(3000, '
+});
