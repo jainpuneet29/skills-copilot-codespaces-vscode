@@ -1,6 +1,6 @@
 // create web server
 
-var http = require('http');
+var http = require('http'); 
 
 // create web server object
 var server = http.createServer(function(req, res) {
